@@ -1,9 +1,6 @@
 ##  Heyy, I'm Grace Zawadi 
 
-💻 Software Engineering Student  
-✨ Java Programming | Ethical Hacking | Business Information Technology 
-Born Again • Jesus Lover • Passionate about Christ-centered tech
-
+**Born Again • Jesus Lover • Passionate about Christ-centered tech**
 
 ---
 
