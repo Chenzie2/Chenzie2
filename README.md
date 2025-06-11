@@ -1,15 +1,13 @@
-##  Heyy, I'm Grace Zawadi 
-
-**Born Again • Jesus Lover • Passionate about Christ-centered tech**
+## ✝️ Born Again • Jesus Lover • Passionate about Christ-centered tech
 
 ---
 
-###  About Me
+### About Me
 I'm a passionate and curious Software Engineering student who loves exploring the world of:
-- ♡ Ethical hacking & cybersecurity
-- ♡ Java programming & software development
-- ♡ Business Information Technology & tech-driven solutions
-- ✨ Using tech to glorify God and serve others
+- ♡ Ethical hacking & cybersecurity  
+- ♡ Java programming & software development  
+- ♡ Business Information Technology & tech-driven solutions  
+- ✨ Using tech to glorify God and serve others  
 
 ---
 
@@ -31,7 +29,7 @@ I'm a passionate and curious Software Engineering student who loves exploring th
 
 ### ✝️ Projects for Christ
 
-Here are some faith-driven projects I'm working on or planning to build:
+Here are some faith-driven projects I'm working on & planning to build:
 
 - [**Your Faith Journey**](https://github.com/Chenzie2/your-faith-journey) — A discipleship app for anyone who wants to know God and the Christian life  
 - [**QuietTime Devotion Tracker**](https://github.com/Chenzie2/QuietTime-Devotion-Tracker) — A tool to help track daily devotionals, prayer, and scripture readings  
