@@ -1,16 +1,63 @@
-## Hi there 👋
+##  Heyy, I'm Grace Zawadi (aka Chenzie2)
 
-<!--
-**Chenzie2/Chenzie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 she/her | Software Engineering Student | Ethical Hacker (in training) | Java Dev | BIT Enthusiast  
+✝️ **Born Again • Jesus Lover • Passionate about Christ-centered tech projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+I'm a passionate and curious Software Engineering student who loves exploring the world of:
+- ♡ Ethical hacking & cybersecurity
+- ♡ Java programming & software development
+- ♡ Business Information Technology & tech-driven solutions
+- ✨ Using tech to glorify God and serve others
+
+---
+
+###  Currently Learning
+- Java backend development
+- Cybersecurity tools & ethical hacking
+- Business tech systems & digital strategy
+- Building faith-based apps & digital ministries 
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages**: Java, Python, JavaScript
+- **Security Tools**: Kali Linux, Burp Suite, Wireshark
+- **Dev Tools**: Git, GitHub, VS Code
+- **Concepts**: OOP, Networking, System Analysis
+
+---
+### ✝️ Projects for Christ
+
+Here are some faith-driven projects I'm working on or planning to build:
+
+- [**Your Faith Journey**](https://github.com/Chenzie2/your-faith-journey) — A discipleship app for anyone who wants to know God and the Christian life
+- [**QuietTime Devotion Tracker**](https://github.com/Chenzie2/QuietTime-Devotion-Tracker) — A tool to help track daily devotionals, prayer, and scripture readings   
+- [**Personal Website**](https://github.com/Chenzie2/Personal-website) — A digital space to share who I am, what I do, and Who I live for  
+
+---
+
+###  GitHub Stats
+![Chenzie2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenzie2&show_icons=true&theme=tokyonight)
+
+---
+
+> *“But we all, with unveiled face, beholding as in a mirror the glory of the Lord,  
+are being transformed into the same image from glory to glory...”* – **2 Corinthians 3:18**  
+> *“Where your treasure is, there your heart will be also.”* – **Matthew 6:21**
+
+---
+
+### Contribution Snake (because why not)
+![snake gif](https://github.com/Chenzie2/Chenzie2/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+###  Let’s Connect
+- 💌 Reach out on GitHub!
+
+---
+
+> *“I can do all things through Christ who strengthens me.” – Philippians 4:13*
