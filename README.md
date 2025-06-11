@@ -1,7 +1,9 @@
-##  Heyy, I'm Grace Zawadi (aka Chenzie2)
+##  Heyy, I'm Grace Zawadi 
 
-🌸 she/her | Software Engineering Student | Ethical Hacker (in training) | Java Dev | BIT Enthusiast  
-✝️ **Born Again • Jesus Lover • Passionate about Christ-centered tech projects**
+💻 Software Engineering Student  
+✨ Java Programming | Ethical Hacking | Business Information Technology 
+Born Again • Jesus Lover • Passionate about Christ-centered tech
+
 
 ---
 
@@ -29,17 +31,18 @@ I'm a passionate and curious Software Engineering student who loves exploring th
 - **Concepts**: OOP, Networking, System Analysis
 
 ---
+
 ### ✝️ Projects for Christ
 
 Here are some faith-driven projects I'm working on or planning to build:
 
-- [**Your Faith Journey**](https://github.com/Chenzie2/your-faith-journey) — A discipleship app for anyone who wants to know God and the Christian life
-- [**QuietTime Devotion Tracker**](https://github.com/Chenzie2/QuietTime-Devotion-Tracker) — A tool to help track daily devotionals, prayer, and scripture readings   
+- [**Your Faith Journey**](https://github.com/Chenzie2/your-faith-journey) — A discipleship app for anyone who wants to know God and the Christian life  
+- [**QuietTime Devotion Tracker**](https://github.com/Chenzie2/QuietTime-Devotion-Tracker) — A tool to help track daily devotionals, prayer, and scripture readings  
 - [**Personal Website**](https://github.com/Chenzie2/Personal-website) — A digital space to share who I am, what I do, and Who I live for  
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 ![Chenzie2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenzie2&show_icons=true&theme=tokyonight)
 
 ---
@@ -50,14 +53,8 @@ are being transformed into the same image from glory to glory...”* – **2 Cor
 
 ---
 
-### Contribution Snake (because why not)
-![snake gif](https://github.com/Chenzie2/Chenzie2/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ###  Let’s Connect
 - 💌 Reach out on GitHub!
 
 ---
-
-> *“I can do all things through Christ who strengthens me.” – Philippians 4:13*
