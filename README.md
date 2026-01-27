@@ -1,36 +1,34 @@
-## ✝️ Born Again • Jesus Lover • Passionate about Christ-centered tech
+## Software Development • Cybersecurity • Machine Learning — Learner
+
 
 ---
 
 ### About Me
-I'm a passionate and curious Software Engineering student who loves exploring the world of:
+I'm a passionate and curious Software Engineer who loves exploring the world of:
 - ♡ Ethical hacking & cybersecurity  
 - ♡ Java programming & software development  
 - ♡ Business Information Technology & tech-driven solutions  
-- ✨ Using tech to glorify God and serve others  
-
+- 
 ---
 
 ###  Currently Learning
-- Java backend development
+- Backend development 
 - Cybersecurity tools & ethical hacking
-- Business tech systems & digital strategy
-- Building faith-based apps & digital ministries 
+- Machine learning and AI
+- Python for Data Analytics
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages**: Java, Python, JavaScript
+- **Languages**: Python, JavaScript
 - **Security Tools**: Kali Linux, Burp Suite, Wireshark
 - **Dev Tools**: Git, GitHub, VS Code
 - **Concepts**: OOP, Networking, System Analysis
 
 ---
 
-### ✝️ Projects for Christ
-
-Here are some faith-driven projects I'm working on & planning to build:
-
+### Projects 
+I have built and currently building:
 - [**Your Faith Journey**](https://github.com/Chenzie2/your-faith-journey) — A discipleship app for anyone who wants to know God and the Christian life  
 - [**QuietTime Devotion Tracker**](https://github.com/Chenzie2/QuietTime-Devotion-Tracker) — A tool to help track daily devotionals, prayer, and scripture readings  
 - [**Personal Website**](https://github.com/Chenzie2/Personal-website) — A digital space to share who I am, what I do, and Who I live for  
