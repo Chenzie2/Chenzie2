@@ -1,31 +1,27 @@
-## Software Development • Cybersecurity • Machine Learning — Learner
-
+## Software Engineering • Cybersecurity • Machine Learning Enthusiast
 
 ---
-
-### About Me
 I'm a passionate and curious Software Engineer who loves exploring the world of:
 - ♡ Ethical hacking & cybersecurity  
-- ♡ Java programming & software development  
-- ♡ Business Information Technology & tech-driven solutions  
-- 
+- ♡ Full-Stack software development  
+- ♡ Business Information Technology
 ---
 
 ###  Currently Learning
 - Backend development 
-- Cybersecurity tools & ethical hacking
+- Cybersecurity
 - Machine learning and AI
 - Python for Data Analytics
 
 ---
 
-### 🛠️ Skills & Tools
-- **Languages**: Python, JavaScript
+### Skills & Tools
+- **Languages**: React, Flask, Python, JavaScript,
 - **Security Tools**: Kali Linux, Burp Suite, Wireshark
 - **Dev Tools**: Git, GitHub, VS Code
 - **Concepts**: OOP, Networking, System Analysis
 
 ###  Let’s Connect
-- 💌 Reach out on GitHub!
+- Reach out on GitHub!
 
 ---
