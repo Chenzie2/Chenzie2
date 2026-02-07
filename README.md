@@ -1,4 +1,4 @@
-## Software Engineering • Cybersecurity • Machine Learning Enthusiast
+## Software Engineering • Cybersecurity • Business Information Technology Student
 
 ---
 I'm a passionate and curious Software Engineer who loves exploring the world of:
@@ -10,7 +10,6 @@ I'm a passionate and curious Software Engineer who loves exploring the world of:
 ###  Currently Learning
 - Backend development 
 - Cybersecurity
-- Machine learning and AI
 - Python for Data Analytics
 
 ---
